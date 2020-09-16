@@ -1,0 +1,10 @@
+Pada gambar ke 1 Ada 60 Larva yang terdeteksi
+Pada gambar ke 2 Ada 56 Larva yang terdeteksi
+Pada gambar ke 3 Ada 43 Larva yang terdeteksi
+Pada gambar ke 4 Ada 49 Larva yang terdeteksi
+Pada gambar ke 5 Ada 25 Larva yang terdeteksi
+Pada gambar ke 6 Ada 12 Larva yang terdeteksi
+Pada gambar ke 7 Ada 41 Larva yang terdeteksi
+Pada gambar ke 8 Ada 45 Larva yang terdeteksi
+Pada gambar ke 9 Ada 8 Larva yang terdeteksi
+Pada gambar ke 10 Ada 11 Larva yang terdeteksi
